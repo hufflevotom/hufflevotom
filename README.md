@@ -6,13 +6,13 @@
 <hr>
 <h5 align="center">
   <a href="https://www.facebook.com/hufflevotom">
-  <img align="center" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="center" alt="Twitter" width="22px" src="/assets/facebook.png" />
 </a>
 <a href="https://twitter.com/hufflevotom">
-  <img align="center" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Twitter" width="22px" src="/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hufflevotom/">
-  <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="LinkedIn" width="22px" src="/assets/linkedin.svg" />
 </a>
 </h5>
 <br>
@@ -35,22 +35,22 @@
   <h3 align="center">💻 Languages, Frameworks & Tools ⚡</h3>
 </p>
 <p align="center">
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg" alt="figma" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.linkedin.com/in/hufflevotom/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="figma" height='42px'/> </a>
 </p>
 <hr>
 <p align="center">
