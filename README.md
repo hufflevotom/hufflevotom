@@ -33,7 +33,7 @@
 </p>
 <br>
 <div>
-  <img align="left" height=190 src="https://github-readme-streak-stats.herokuapp.com/?user=hufflevotom&theme=monokai&hide_border=true" />
-  <img width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hufflevotom&theme=monokai&show_icons=true&hide_border=true&layout=compact" />
+  <img align="left" height=165 src="https://github-readme-streak-stats.herokuapp.com/?user=hufflevotom&theme=monokai&hide_border=true" />
+  <img width=300 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hufflevotom&theme=monokai&show_icons=true&hide_border=true&layout=compact" />
 </div>
   
