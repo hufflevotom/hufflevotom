@@ -1,9 +1,8 @@
 <h3 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bruno....;Nice+to+meet+you!&color=%2300DB4D&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&color=%2300DB4D&center=true&size=30">
   </a>
 </h3>
-<hr>
 <h5 align="center">
   <a href="https://www.facebook.com/hufflevotom">
   <img align="center" alt="Twitter" width="22px" src="/assets/facebook.png" />
@@ -17,9 +16,6 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Bruno, Software Developer from Perú
-  <br>
-  <br>
   🔬 I'm a bachelor graduated from the systems engineering career at the Autonomous University of Perú.
   <br>
   💻 I love writing code and learn anythings about it.
@@ -54,11 +50,9 @@
 <p align="center">
 <h3 align="center">📈 Stats 📈</h3>
 </p>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="#" target="_blank"> <img width=390 align="left" src="https://github-readme-streak-stats.herokuapp.com?user=hufflevotom&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" /> </a>
-    <a href="#" target="_blank"> <img width=390 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hufflevotom&title_color=00DB4D&text_color=CDCDCD&icon_color=00DBA3&bg_color=00000000&langs_count=4&count_private=true&layout=compact&hide_border=true" /> </a>
-  </div>
-  <br>
-</p>
+<div>
+  <img width=320 height="200px" src="https://github-readme-stats.vercel.app/api?username=hufflevotom&theme=monokai&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+  <img width=350 height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=hufflevotom&theme=monokai&hide_border=true" />
+  <img width=230 height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hufflevotom&theme=monokai&show_icons=true&hide_border=true&layout=compact" />
+</div>
+  
